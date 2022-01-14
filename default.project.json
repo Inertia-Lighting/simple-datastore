@@ -1,0 +1,13 @@
+{
+  "name": "cached-datastore",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "cached-datastore": {
+        "$className": "Folder",
+        "$path": "src"
+      }
+    }
+  }
+}
