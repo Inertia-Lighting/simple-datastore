@@ -5,6 +5,8 @@ Simple DataStore aims to provide a simple, easy to use, and efficient way to sto
 
 ## Usage
 ```lua
+-- The following asset id is owned and updated by Inertia Lighting.
+-- Inertia Lighting expresses no guarantee or liability for the usage of this asset id.
 local SimpleDataStore = require(9415836954)
 local DataStoreRouter = SimpleDataStore.DataStoreRouter
 local CachedDataStore = SimpleDataStore.CachedDataStore
